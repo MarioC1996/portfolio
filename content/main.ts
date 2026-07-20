@@ -22,7 +22,7 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'A new/old student of software development, after a break of 5 years without writing a single line of code I decided to get back into development. Follow me along on this journey.\n',
   },
   features: [
     {
